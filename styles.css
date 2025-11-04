@@ -50,7 +50,7 @@ p {
   margin: 0 auto;
   text-align: center;
 }body {
-  background-color: DimGrey;
+  background-color: MediumSlateBlue;
 }
 
 h1 {
@@ -68,7 +68,7 @@ p {
   font-size: 25px;
   width: 700px;
   margin: 0 auto;
-  color: Indigo;
+  color: PaleGoldenRod;
   text-align: center;
 }
 img {
