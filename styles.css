@@ -48,7 +48,7 @@ p {
   margin: 0 auto;
   text-align: center;
 }body {
-  background-color: green;
+  background-color: gray;
 }
 
 h1 {
@@ -57,7 +57,7 @@ h1 {
 }
 
 h3 {
-  color: gray;
+  color: Azure;
   text-align: center;
 }
 
